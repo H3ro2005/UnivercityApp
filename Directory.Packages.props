@@ -5,7 +5,7 @@
   <!--.NET 9 packages. Most of them will work on .NET 8. If you need to, make the updates here individually.-->
   <ItemGroup>
     <!-- Static code analysis -->
-    <PackageVersion Include="Aspire.Hosting.PostgreSQL" Version="9.3.1" />
+    <PackageVersion Include="Aspire.Hosting.PostgreSQL" Version="13.1.0" />
     <PackageVersion Include="Microsoft.EntityFrameworkCore.Abstractions" Version="9.0.7" />
     <PackageVersion Include="SonarAnalyzer.CSharp" Version="10.12.0.118525" />
     <!-- Application -->
