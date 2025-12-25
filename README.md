@@ -18,16 +18,7 @@ What's used in project?
 - Testing projects
   - Architecture testing
 
-I'm open to hearing your feedback about the template and what you'd like to see in future iterations.
 
-If you're ready to learn more, check out [**Pragmatic Clean Architecture**](https://www.milanjovanovic.tech/pragmatic-clean-architecture?utm_source=ca-template):
-
-- Domain-Driven Design
-- Role-based authorization
-- Permission-based authorization
-- Distributed caching with Redis
-- OpenTelemetry
-- Outbox pattern
 - API Versioning
 - Unit testing
 - Functional testing
