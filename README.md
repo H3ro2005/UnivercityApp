@@ -1,6 +1,6 @@
-# Clean Architecture Template
+# University Project
 
-What's included in the template?
+What's used in project?
 
 - SharedKernel project with common Domain-Driven Design abstractions.
 - Domain layer with sample entities.
